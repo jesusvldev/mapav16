@@ -209,8 +209,9 @@ if (isset($_GET['ajax']) && $_GET['ajax'] === '1') {
 <html lang="es">
 <head>
     <meta charset="utf-8">
-    <title>Balizas V16 (inferido) – España</title>
+    <title>Balizas V16 </title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/png" href="docs/favicon.png">
 
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="anonymous">
     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" crossorigin="anonymous">
